@@ -1,0 +1,14 @@
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Properties.Resources.resources
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.Cache
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe.config
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\bin\Debug\HospitalApp.pdb
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.exe
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+c:\users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Form2.resources
+C:\Users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csprojResolveAssemblyReference.cache
+C:\Users\nizam_000\documents\visual studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Sobeler.resources
+C:\Users\nizam_000\Documents\Visual Studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.login.resources
+C:\Users\nizam_000\Documents\Visual Studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Form1.resources
+C:\Users\nizam_000\Documents\Visual Studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.qeydiyat.resources
+C:\Users\nizam_000\Documents\Visual Studio 2017\Projects\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Finsh.resources
